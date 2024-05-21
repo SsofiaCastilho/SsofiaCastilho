@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👾
 🔭 I’m currently working on learning python to do a OOP project
 
 <!--
