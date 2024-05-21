@@ -1,5 +1,5 @@
 ## Hi there 👾
-🔭 I’m currently working on learning python to do a OOP project
+🔭 I’m currently learning python to do a OOP project
 
 <!--
 **SsofiaCastilho/SsofiaCastilho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
